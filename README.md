@@ -1,2 +1,2 @@
 # Operarting-System
-Includes 1. A program to simulate Banker’s Algorithm for the purpose of deadlock avoidance. 2. programs to simulate following disk  scheduling algorithms A] FCFS B] SSTF C] Scan or Elevator D] C-SCAN E] C-LOOK
+Includes 1. Banker’s Algorithm for the purpose of deadlock avoidance. 2.Disk scheduling algorithms a. FCFS b. SSTF c. Scan or Elevator d. C-SCAN e. C-LOOK 3. Paging Algorithm 
